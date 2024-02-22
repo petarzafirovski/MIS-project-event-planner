@@ -1,2 +1,2 @@
-# MIS-project-event-planner
+# МИС 2023/2024
 Мобилни информациски системи проект - EventPlanner
