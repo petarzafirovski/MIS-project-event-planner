@@ -3,13 +3,13 @@ import "firebase/compat/auth";
 import "firebase/compat/firestore";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyB8aRSLGPyxpofy9ovZhfuUkJPtFdoI_ZU",
-  authDomain: "mis-event-planner.firebaseapp.com",
-  projectId: "mis-event-planner",
-  storageBucket: "mis-event-planner.appspot.com",
-  messagingSenderId: "818250396732",
-  appId: "1:818250396732:web:15e903eac0001a6bedff39",
-  measurementId: "G-NTVV031MZE",
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_FIREBASE_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "MESSAGING_SENDER_ID",
+  appId: "APP_ID",
+  measurementId: "MEASUREMENT_ID",
 };
 
 if (!firebase.apps.length) {
