@@ -24,7 +24,7 @@ EventPlanner is a cross-platform mobile application made in react native utilizi
 <ul>
   <li>Firstly, startup the web api service with docker compose</li>
   <li>For react-native local development in android (like in my case), I needed to install locally openjdk-17 (by running <code>choco install -y nodejs-lts microsoft-openjdk17</code>)</li>
-  <li>In the ```services/Firebase.js``` add your configuration parameters for Firebase in order to setup the authentication provider</li>
+  <li>In the <code>services/Firebase.js</code> add your configuration parameters for Firebase in order to setup the authentication provider</li>
   <li>Start your simulator by your choice (in my case I used android studio Pixel 7 Pro API 33 (Android 13.0 Tiramisu))</li>
   <li>Then run <code>npm install</code> and after that in another terminal run <code>npm run android</code></li>
 </ul>
